@@ -1,4 +1,4 @@
-a=int(input())
-b=list(map(int,input().split()))
-b.sort()
-print(*b,end=' ')
+x=int(input())
+y=list(map(int,input().split()))
+y.sort()
+print(*y,end=' ')
